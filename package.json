@@ -1,6 +1,6 @@
 {
-    "name": "react-native-cookies",
-    "version": "3.2.0",
+    "name": "@whatever/react-native-cookies",
+    "version": "3.2.1",
     "description": "Cookie manager for react native",
     "keywords": ["react", "react native", "react-component", "cookies", "webview", "react-native"],
     "main": "index.js",
@@ -8,5 +8,9 @@
     "license": "MIT",
     "dependencies": {
         "invariant": "^2.1.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/whatever-company/react-native-cookies.git"
     }
 }
